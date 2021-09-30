@@ -333,6 +333,15 @@
         "singer": ["Lata Mangeshkar"],
         "genre": ["Romantic"],
         "link": "https://www.youtube.com/watch?v=V7LwfY5U5WI"
+},
+{       "id": 33,
+        "name": "Hawayein",
+        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/hawayein.html",
+        "album": "Hawayein",
+        "Duration":"4 min ",
+        "singer": ["Arijit singh"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/cYOB941gyXI"
 }
 
 ]
